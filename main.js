@@ -50,7 +50,7 @@ class ProductManager {
         } else{
             console.log("SEE, lo encontamos: ", product)
         }
-        return product;
+        
     }
 
 }
