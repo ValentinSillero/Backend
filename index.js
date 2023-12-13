@@ -66,14 +66,6 @@ class ProductManager {
             console.log("Error al leer el archivo", error);
         }
 
-
-    //     const product = this.products.find(item => item.id === id);
-
-    //     if(!product){
-    //         console.log("Producto no encontrado, te vamos  tener que matar disculpa loco");
-    //     } else{
-    //         console.log("SEE, lo encontamos: ", product)
-    //     }
         
     }
 
